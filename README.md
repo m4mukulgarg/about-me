@@ -41,6 +41,7 @@ My interests range from programming to movies. I am also interested in DIY elect
 |ESP8266                | Advanced      |
 
 ## Languages
+
 |Language | proficiency |
 |:-------:|:-----------:|
 |English  | Fluent      |
