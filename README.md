@@ -1,30 +1,33 @@
 # Mukul Garg
 
 |<a href="http://bit.ly/ttm4mg"><img src="static/twitter_001.png" title="Tweet" alt="@m4MukulGarg" height="16" width="16"></a>|<a href="http://bit.ly/m4mgfb"><img src="static/facebook_001.png" title="Facebook Profile" alt="fb.com/m4MukulGarg" height="16" width="16"></a>|<a href="mailto:m4mukulgarg@live.com"><img src="static/email.png" title="Send an Email" alt="m4mukulgarg@live.com" height="16" width="16"></a>|<a href="http://bit.ly/m4mgLin"><img src="static/LinkedIn-34.png" title="Linkedin Profile" alt="m4mukulgarg@live.com" height="16" width="16"></a>|
-|:--:|:--:|:--:|:--:|
+|---|---|---|---|
 
 
 Passionate learner, full stack developer, and software engineer currently living in New Delhi, India. 
 
 ## Education
 ### Bhagwan Parshuram Institute of Technology, Delhi
+http://bpitindia.com
+
 B. Tech | Computer Engineering | Graduating August 2019
 
 Currently pursuing my undergraduate degree course.
 * Coordinated in Eloquence - BPIT's Annual Literary Fest
-* CSM: Cold Storage Management System, Finalist for the Smart India Hackathon 2017 for Ministry of Food Processing Industries
+* [CSM](http://bit.ly/mg-csm): Cold Storage Management System, Finalist for the Smart India Hackathon 2017 for Ministry of Food Processing Industries
 * 3-month professional training in Android Application Development 
 * [ekapp](http://bit.ly/mg-ekapp): Web-App for Voting Online, written in JSP.
 * [ekaurapp](http://bit.ly/mg-ekaurapp): Web-App for Hospital Appointments, written in JSP.
 * [HomeDroid](http://bit.ly/mg-homedroid): Home automation system using ESP8266, controlled using Android application.
 
-### Ambedkar Polytechnic
+### Ambedkar Polytechnic, Delhi
+http://ambp.in
+
 Diploma | Computer Engineering | Completed on August 2015
 
 Completed 3-year polytechnic diploma with first division.
 + Coordinated Utsav - Ambedkar Polytechnic's Annual Cultural Fest.
-+ Six-week professional training in J2EE(Servlet, JSP, JDBC) from [WebTek Labs](www.webteklabs.com/
-)
++ Six-week professional training in J2EE(Servlet, JSP, JDBC) from [WebTek Labs](www.webteklabs.com/)
 + [Hire-a-Cab](http://bit.ly/mg-hac): Online transportation Service Web-App, written in JSP. 
 
 ## Hobbies & Interests
