@@ -1,7 +1,5 @@
 # Mukul Garg
-t.co/m4mg
 
-m4mukulgarg@live.com
 
 ## Summary
 I am a student, web developer, and software engineer currently living in New Delhi, India. 
@@ -16,7 +14,7 @@ Currently pursuing my undergraduate degree course.
 1. Coordinated in Eloquence - BPIT's Annual Literary Fest
 2. Finalist for the Smart India Hackathon 2017 for Ministry of Food Processing Industries
 3. 3-month professional training in Android Application Development 
-4. ekapp: Web-App for Voting Online, written in JSP (GitHub link: http://bit.ly/mg-ekapp)
+4. ekapp: Web-App for Voting Online, written in JSP. [ekapp on GitHub](http://bit.ly/mg-ekapp)
 5. ekaurapp: Web-App for Hospital Appointments, written in JSP (GitHub link: http://bit.ly/mg-ekaurapp)
 6. HomeDroid: Home automation system using ESP8266, controlled using Android application (GitHub link: http://bit.ly/mg-homedroid)
 Ambedkar Polytechnic
