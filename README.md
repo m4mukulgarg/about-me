@@ -2,7 +2,7 @@
 Passionate learner, full stack developer, and software engineer currently living in New Delhi, India. 
 
 ## Education
-### Bhagwan Parshuram Institute of Technology, Delhi [![Visit](static/new-tab-16.png)](http://bpitindia.com)
+### Bhagwan Parshuram Institute of Technology, Delhi <a href="http://bpitindia.com" target="_blank">![Visit](static/new-tab-16.png)</a>
 B. Tech | Computer Engineering | Graduating August 2019
 
 Currently pursuing my undergraduate degree course.
