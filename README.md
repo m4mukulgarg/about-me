@@ -2,9 +2,7 @@
 Passionate learner, full stack developer, and software engineer currently living in New Delhi, India. 
 
 ## Education
-### Bhagwan Parshuram Institute of Technology, Delhi
-http://bpitindia.com
-
+### Bhagwan Parshuram Institute of Technology, Delhi [![Visit](static/new-tab-16.png)](http://bpitindia.com)
 B. Tech | Computer Engineering | Graduating August 2019
 
 Currently pursuing my undergraduate degree course.
@@ -15,9 +13,7 @@ Currently pursuing my undergraduate degree course.
 * [ekaurapp](http://bit.ly/mg-ekaurapp): Web-App for Hospital Appointments, written in JSP.
 * [HomeDroid](http://bit.ly/mg-homedroid): Home automation system using ESP8266, controlled using Android application.
 
-### Ambedkar Polytechnic, Delhi
-http://ambp.in
-
+### Ambedkar Polytechnic, Delhi [![Visit](static/new-tab-16.png)](http://ambp.in)
 Diploma | Computer Engineering | Completed on August 2015
 
 Completed 3-year polytechnic diploma with first division.
