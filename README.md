@@ -1,9 +1,4 @@
-# Mukul Garg
-
-| [![@m4MukulGarg](static/twitter_003.png)](http://bit.ly/ttm4mg) |  [![fb.com/m4MukulGarg](static/facebook_003.png)](http://bit.ly/m4mgfb) |   [![Send an Email](static/email-16.png)](mailto:m4mukulgarg@live.com) | [![m4mukulgarg@live.com](static/linkedin_003.png)](http://bit.ly/m4mgLin) |
-|---|---|---|---|
-
-
+# Mukul Garg  [![@m4MukulGarg](static/twitter_003.png)](http://bit.ly/ttm4mg) [![fb.com/m4MukulGarg](static/facebook_003.png)](http://bit.ly/m4mgfb) [![Send an Email](static/email-16.png)](mailto:m4mukulgarg@live.com) [![m4mukulgarg@live.com](static/linkedin_003.png)](http://bit.ly/m4mgLin) 
 Passionate learner, full stack developer, and software engineer currently living in New Delhi, India. 
 
 ## Education
