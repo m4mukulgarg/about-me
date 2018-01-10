@@ -1,46 +1,47 @@
 # Mukul Garg
-
-
-## Summary
-I am a student, web developer, and software engineer currently living in New Delhi, India. 
+Passionate learner, full stack developer, and software engineer currently living in New Delhi, India. 
 
 ## Education
-Bhagwan Parshuram Institute of Technology
-B. Tech, Computer Engineering
-New Delhi, India
-Graduating August 2019
+### Bhagwan Parshuram Institute of Technology, Delhi
+B. Tech | Computer Engineering | Graduating August 2019
 
 Currently pursuing my undergraduate degree course.
-1. Coordinated in Eloquence - BPIT's Annual Literary Fest
-2. Finalist for the Smart India Hackathon 2017 for Ministry of Food Processing Industries
-3. 3-month professional training in Android Application Development 
-4. ekapp: Web-App for Voting Online, written in JSP. [ekapp on GitHub](http://bit.ly/mg-ekapp)
-5. ekaurapp: Web-App for Hospital Appointments, written in JSP (GitHub link: http://bit.ly/mg-ekaurapp)
-6. HomeDroid: Home automation system using ESP8266, controlled using Android application (GitHub link: http://bit.ly/mg-homedroid)
-Ambedkar Polytechnic
-Diploma, Computer Engineering
-Graduated August 2015
+* Coordinated in Eloquence - BPIT's Annual Literary Fest
+* CSM: Cold Storage Management System, Finalist for the Smart India Hackathon 2017 for Ministry of Food Processing Industries
+* 3-month professional training in Android Application Development 
+* [ekapp](http://bit.ly/mg-ekapp): Web-App for Voting Online, written in JSP.
+* [ekaurapp](http://bit.ly/mg-ekaurapp): Web-App for Hospital Appointments, written in JSP.
+* [HomeDroid](http://bit.ly/mg-homedroid): Home automation system using ESP8266, controlled using Android application.
+
+### Ambedkar Polytechnic
+Diploma | Computer Engineering | Completed on August 2015
 
 Completed 3-year polytechnic diploma with first division.
-1. Coordinated Utsav - Ambedkar Polytechnic's Annual Cultural Fest.
-2. Six-week professional training in J2EE(Servlet, JSP, JDBC) from WebTek Labs
-3. Hire-a-Cab: Online transportation Service Web-App, written in JSP (GitHub link: http://bit.ly/mg-hac) 
++ Coordinated Utsav - Ambedkar Polytechnic's Annual Cultural Fest.
++ Six-week professional training in J2EE(Servlet, JSP, JDBC) from [WebTek Labs](www.webteklabs.com/
+)
++ [Hire-a-Cab](http://bit.ly/mg-hac): Online transportation Service Web-App, written in JSP. 
 
-Hobbies & Interests
-My interests range from programming to movies. I am also interested in DIY electronics projects, Counter-Strike and sci-fi TV series.
+## Hobbies & Interests
+My interests range from programming to movies. I am also interested in DIY electronics projects, Counter-Strike and science fiction.
 
-Professional Skills
-JAVA: Advanced
-JSP: Advanced
-Tomcat: Advanced
-MySQL: Intermediate
-Front-End Development: Intermediate
-Spring: Intermediate
-Hibernate: Intermediate
-Struts: Intermediate
-Arduino: Advanced
-ESP8266: Advanced
+## Professional Skills
 
-Languages
-English: Fluent
-Hindi: Native
+|Skill                  | proficiency   |
+|:---------------------:|:-------------:|
+|JAVA(J2SE)             | Advanced      |
+|Servlet, JSP           | Advanced      |
+|Apache Tomcat          | Advanced      |
+|MySQL database server  | Intermediate  |
+|Front-End Development  | Intermediate  |
+|Spring                 | Intermediate  |
+|Hibernate              | Intermediate  |
+|Struts                 | Intermediate  |
+|Arduino                | Advanced      |
+|ESP8266                | Advanced      |
+
+## Languages
+|Language | proficiency |
+|:-------:|:-----------:|
+|English  | Fluent      |
+|Hindi    | Native      |
