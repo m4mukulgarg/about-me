@@ -1,6 +1,6 @@
 # Mukul Garg
 
-|<a href="http://bit.ly/ttm4mg"><img src="static/twitter_001.png" title="Tweet" alt="@m4MukulGarg" height="16" width="16"></a>|<a href="http://bit.ly/m4mgfb"><img src="static/facebook_001.png" title="Facebook Profile" alt="fb.com/m4MukulGarg" height="16" width="16"></a>|<a href="mailto:m4mukulgarg@live.com"><img src="static/email.png" title="Send an Email" alt="m4mukulgarg@live.com" height="16" width="16"></a>|<a href="http://bit.ly/m4mgLin"><img src="static/LinkedIn-34.png" title="Linkedin Profile" alt="m4mukulgarg@live.com" height="16" width="16"></a>|
+| [![@m4MukulGarg](static/twitter_003.png)](http://bit.ly/ttm4mg) |  [![fb.com/m4MukulGarg](static/facebook_003.png)](http://bit.ly/m4mgfb) |   [![Send an Email](static/email-16.png)](mailto:m4mukulgarg@live.com) | [![m4mukulgarg@live.com](static/linkedin_003.png)](http://bit.ly/m4mgLin) |
 |---|---|---|---|
 
 
